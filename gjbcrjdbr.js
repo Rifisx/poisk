@@ -27,3 +27,4 @@
         // Привязываем обработчик события нажатия на кнопку поиска
         document.getElementById("search-button").addEventListener("click", search);
     </script>
+//Поиски могут не заработать из-за простоты кода
